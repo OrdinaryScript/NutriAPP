@@ -1,0 +1,15 @@
+#Requerimientos
+##Requerimientos funcionales:
+Registro de Usuarios: Los usuarios deben poder registrarse en la aplicación proporcionando información básica como nombre, edad, género, etc.
+Registro de Alimentos: Los usuarios deben poder registrar los alimentos que consumen a lo largo del día, especificando la cantidad y la hora de consumo.
+Asesoramiento nutricional: Los usuarios deben poder comunicarse con un nutriólogo certificado a través de la aplicación para recibir recomendaciones y asesoramiento personalizado.
+Catálogo de Alimentos: La aplicación debe incluir un catálogo completo de alimentos con información nutricional detallada, incluyendo calorías, proteínas, grasas, carbohidratos, vitaminas y minerales.
+Seguimiento de Metas: Los usuarios deben poder establecer metas de salud, como pérdida de peso o aumento de masa muscular, y hacer un seguimiento de su progreso hacia esas metas.
+
+##Requerimientos no funcionales:
+Rendimiento: La aplicación debe estar bien optimizada para poder utilizarse en la mayoría de dispositivos de los usuarios.
+Disponibilidad: Su uso deberá poder ser las 24 horas del día para que el usuario pueda acceder a las bases de datos en cualquier momento.
+Capacidad: El uso de la aplicación deberá soportar la demanda de datos y tendrá la capacidad de soportar conexiones simultáneas.
+Accesibilidad: Disponible en multiplataforma sin perder las herramientas que vienen integradas para su correcto funcionamiento. 
+Seguridad: Brindar a los usuarios una plataforma en donde sus datos se encuentren respaldados mediante la encriptación.
+
